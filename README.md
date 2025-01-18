@@ -98,7 +98,7 @@ Decoding:
 ![Decoding](./assests/screenshots/decode.png)
 
 Decoded Data:
-![Decoded_Data](./assests/screenshots/decode_data.png)
+![Decoded_Data](./assests/screenshots/decoded_data.png)
 
 Invalid input:
 ![Invalid input](./assests/screenshots/invalid.png)
