@@ -1,4 +1,4 @@
-## Arbitrary Precision Calculator (APC)
+## Image Steganography
 
 ## Overview
 
