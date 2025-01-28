@@ -2,7 +2,10 @@
 
 ## Overview
 
-    This project implements steganography, the art of hiding secret data within an image file. Specifically, the project encodes and decodes hidden information using the Least Significant Bit (LSB) technique in BMP image files. The tool provides a simple, efficient way to embed data without altering the visual quality of the image.
+    This project implements steganography, the art of hiding secret data within an image file. 
+    Specifically, the project encodes and decodes hidden information using the 
+    Least Significant Bit (LSB) technique in BMP image files. The tool provides a simple, 
+    efficient way to embed data without altering the visual quality of the image.
 
 ## Features
 
